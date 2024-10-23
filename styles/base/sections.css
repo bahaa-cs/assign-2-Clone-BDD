@@ -92,13 +92,13 @@
 .foundations-cards{
     width: 100%;
     justify-content: space-between;
-    overflow-x: scroll;
+    /* overflow-x: scroll; */
 }
 
 .card{
 
     display: flex;
-    align-items: center;
+    align-items: column;
     height: 420px;
     width: 100%;
     background-color: white;
