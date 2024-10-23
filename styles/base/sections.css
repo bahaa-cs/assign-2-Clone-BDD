@@ -112,9 +112,26 @@
 
 }
 
-.card img{
-   
+.community-img{
     width: 166px;
     height: 80px;
+}
 
+.economy-img{
+    width: 130px;
+    height: 80px;  
+}
+
+.design-img{
+    width: 80px;
+    height: 80px;
+}
+
+.sust-img{
+    width: 125px;
+    height: 80px;
+}
+.social-img{
+    width: 126px;
+    height: 80px;
 }
