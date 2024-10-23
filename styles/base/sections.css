@@ -7,8 +7,27 @@
     font-size: 14px;
     font-weight: 400;
   }
-  
+  .image-container {
+    text-align: center;
+    color: white;
+  }
+  .image-container img {
+    filter: brightness(50%);
+    width: 100%;
+    height: auto;
+  }
+
+  .image-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+    font-weight: 600;
+    font-family: "TheMixBlack-Caps",Sans-serif;
+  }
   .navbar {
+    z-index: 1000;
     position: fixed;
     padding: 10px;
     width: 100%;
