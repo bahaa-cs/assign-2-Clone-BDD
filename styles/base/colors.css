@@ -1,3 +1,21 @@
 .nav-bg{
     background-color: #414141;
 }
+
+.primary-text{  
+    color: white;
+}
+
+.btn-bg{
+    background-color: #0078BE;
+}
+
+.nav-text{
+    font-family: "TheMixSemiBold-Plain";
+    font-size: 0.85rem !important;
+    text-transform: uppercase;
+    line-height: 1.2rem;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+
+}
