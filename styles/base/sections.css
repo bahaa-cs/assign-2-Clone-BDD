@@ -98,13 +98,23 @@
 .card{
 
     display: flex;
-    align-items: column;
+    flex-direction: column;
     height: 420px;
     width: 100%;
     background-color: white;
     color: black;
     font-size: 22px;
     margin: 20px;
-    justify-content: space-between;
+    padding: 20px;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+
+}
+
+.card img{
+   
+    width: 166px;
+    height: 80px;
 
 }
