@@ -6,6 +6,10 @@
     color: white;
 }
 
+.primary-bg{
+    background-color: #F5F5F5;
+}
+
 .btn-bg{
     background-color: #0078BE;
 }
