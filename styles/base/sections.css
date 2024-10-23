@@ -92,7 +92,6 @@
 .foundations-cards{
     width: 100%;
     justify-content: space-between;
-    /* overflow-x: scroll; */
 }
 
 .card{
@@ -110,6 +109,22 @@
     justify-content: flex-start;
     gap: 10px;
 
+}
+.card h2{
+    font-size: 20px;
+    font-weight: 800;
+    font-family: "TheMixBlack-Caps",Sans-serif;
+}
+
+.card p{
+    display: flex;
+    font-family: "TheMixBlack-Caps",Sans-serif;
+    font-size: 16px;
+    align-items: center;
+    justify-content: center;
+    font-weight: 400;
+    padding: 0 5px;
+    
 }
 
 .community-img{
