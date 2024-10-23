@@ -24,7 +24,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 40px;
-    font-weight: 600;
+    font-weight: 900;
     font-family: "TheMixBlack-Caps",Sans-serif;
   }
   .navbar {
@@ -101,9 +101,8 @@
     align-items: center;
     height: 420px;
     width: 100%;
-    min-width: 130px;
     background-color: white;
-    color: white;
+    color: black;
     font-size: 22px;
     margin: 20px;
     justify-content: space-between;
