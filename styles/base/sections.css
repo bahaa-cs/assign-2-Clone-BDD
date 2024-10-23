@@ -152,3 +152,14 @@
     width: 126px;
     height: 80px;
 }
+
+.video-container{
+    width: 100%;
+    height: 493;
+}
+
+.video-container img{
+    width: 100%;
+    height: 100%;
+    filter: brightness(50%);
+}
